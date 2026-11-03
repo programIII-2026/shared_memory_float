@@ -1,7 +1,7 @@
 
 それぞれを別の実行ファイルに
-- gcc shm_write.c -o shm_write
-- gcc shm_read.c -o shm_read
+- gcc shm_write_float.c -o shm_write
+- gcc shm_read_float.c -o shm_read
   
 のようにコンパイルすること
 
